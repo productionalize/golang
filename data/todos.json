@@ -1,0 +1,10 @@
+[
+  {
+    "content": "Buy fruits",
+    "completed": true
+  },
+  {
+    "content": "Do workout",
+    "completed": false
+  }
+]
